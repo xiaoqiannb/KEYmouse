@@ -1,0 +1,11 @@
+{
+  "modifier_key": "lalt",
+  "toggle_key": "grave",
+  "up_key": "i",
+  "down_key": "k",
+  "left_key": "j",
+  "right_key": "l",
+  "left_click_key": "lbracket",
+  "right_click_key": "rbracket",
+  "move_distance": 5
+}
